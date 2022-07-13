@@ -4,3 +4,5 @@
 
 Database Schema
 ![schema.png](schema.png)
+
+[Full analysis](https://github.com/lewasaur/Chinook_DB_Analysis/blob/master/Chinook%20Music%20Store%20DB%20analysis.ipynb)
